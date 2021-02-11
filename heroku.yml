@@ -1,3 +1,5 @@
 build:
   docker:
     web: dist/docker/Dockerfile
+run:
+  web: /url2img-1.4/url2img -bind-addr $PORT
