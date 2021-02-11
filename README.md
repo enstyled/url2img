@@ -133,6 +133,12 @@ Install url2img to $GOPATH/bin:
     $ qtminimal linux $GOPATH/src/github.com/gen2brain/url2img/url2img
     $ go install -tags minimal github.com/gen2brain/url2img/cmd/url2img
 
+### Deploy on Heroku
+
+url2img can be deployed to Heroku with a click of a button:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/enstyled/url2img)
+
 ### License
 
 url2img is free/libre software released under the terms of the GNU GPL license, see the 'COPYING' file for details.
