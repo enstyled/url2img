@@ -1,4 +1,4 @@
-FROM ubuntu:artful
+FROM ubuntu:18.04
 
 # Set environment variables
 ENV DEBIAN_FRONTEND noninteractive
