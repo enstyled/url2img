@@ -1,0 +1,7 @@
+{
+    "name": "url2img",
+    "description": "HTTP server with API for capturing screenshots of websites",
+    "keywords": ["image", "screenshot", "microservice", "docker"],
+    "repository": "https://github.com/gen2brain/url2img",
+    "stack": "container"
+}
